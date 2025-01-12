@@ -1,0 +1,13 @@
+html:a ,h1,h3,img,div,header,section,nav
+css:display: inline-flexy
+    justify-content
+    align-items
+    width
+    height
+    background-color
+    border
+    font-size
+    border-radius;
+    margin;
+    transition
+    color

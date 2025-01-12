@@ -1,0 +1,8 @@
+     .#....#
+fgdhgf
+dfgh
+dfgh
+dfgh
+
+
+
